@@ -1,6 +1,6 @@
 For insight to each of the Java classes and feature implementation, read the included report PDF.
 
-To run the lisp interpreter, execute the makefile (in src folder) then execute the Interpreter.java file 
+To run the LISP interpreter, execute the makefile (in src folder) then execute the Interpreter.java file 
 (javac Interpreter.java) on the CS lab machines.
 
 I was not able to implement the defun construct
